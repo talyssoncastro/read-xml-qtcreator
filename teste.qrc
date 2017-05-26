@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/test_template_table.xml</file>
+        <file>resource/test_template.xml</file>
+        <file>resource/test_example.xml</file>
+    </qresource>
+</RCC>

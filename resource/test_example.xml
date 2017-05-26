@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--example with no DTD-->
+<root>
+   <childA>
+      <subchild1 attr="teste1" attr2="teste2">subtext1</subchild1>
+      <subchild2>subtext2</subchild2>
+   </childA>
+   <childA>
+      <subchild1>subtext3</subchild1>
+      <subchild2>subtext4</subchild2>
+   </childA>
+   <childB>text5</childB>
+   <childB>text6</childB>
+</root>
